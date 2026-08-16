@@ -1,6 +1,6 @@
 # Gaussian Processes for Computing Option Greeks
 
-Companion code for the report **"Gaussian processes and the computation of Greeks"** (Bouke Hoekstra & Bruno Fernandez, June 2026). The report extends the GP option-pricing examples in Dixon, Halperin & Bilokon (2020) in three directions: a broader kernel comparison with all five Greeks, automatic differentiation for the second-order and cross Greeks, and scalable GP training via KISS-GP.
+Companion code for the report **"Gaussian processes and the computation of Greeks"** (Bouke Hoekstra & Bruno Fernandez, June 2026). The full write-up is at [`docs/Gaussian_Processes_and_the_Computation_of_Greeks.pdf`](docs/Gaussian_Processes_and_the_Computation_of_Greeks.pdf). The report extends the GP option-pricing examples in Dixon, Halperin & Bilokon (2020) in three directions: a broader kernel comparison with all five Greeks, automatic differentiation for the second-order and cross Greeks, and scalable GP training via KISS-GP.
 
 ## What's in this repo
 
